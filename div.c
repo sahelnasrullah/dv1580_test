@@ -12,7 +12,7 @@ int main(int argc, char *argv[]){
     }
 
     double division = a1 / a2;
-    printf("Answer: %f\n", division);
+    printf("Answer: %.4f\n", division);
 
     return 0;
 }
